@@ -1,0 +1,15 @@
+.gatsby-highlight code[class*="language-"],
+.gatsby-highlight pre[class*="language-"] {
+  font-size: 0.8em;
+  border-radius: 4px;
+  background-color: #f8feff;
+}
+
+.gatsby-highlight .line-numbers-rows {
+  padding-top: 1em;
+  padding-left: 1em;
+}
+
+.gatsby-highlight .language-java .token.operator {
+  background-color: transparent;
+}
